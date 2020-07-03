@@ -1,6 +1,6 @@
 # IOT-water-management-system
 
-IOT water anagement system for IIIT-H done as a part of Usability Engineering course.
+IOT water management system for IIIT-H done as a part of Usability Engineering course.
 
 Today, the Internet of Things is associated with almost every luxury in our life ranging from 
 smart cities to smart homes, traffic management system to transportation and various 
